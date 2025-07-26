@@ -1,4 +1,4 @@
-Personal Finance & Savings Goal Reporter
+Personal Finance & Savings Goal Tracker
 
 Description
   - This is a command-line Python application designed to help users analyze their personal finances. The program takes a user's income, expenses, and a savings goal, then calculates their net monthly income and predicts whether they can achieve their savings goal within a specified timeframe. The final analysis is compiled into a clean Financial-Report.txt file.
