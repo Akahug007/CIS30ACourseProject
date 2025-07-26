@@ -35,11 +35,11 @@ Description
   - The application is broken down into the following modules:
 
 1. main.py
-Purpose: The main entry point of the application.
-Responsibilities:
-Handles all user interaction (gathering input for name, income, expenses, and savings goals).
-Instantiates objects from the other modules.
-Orchestrates the flow of data between the calculation and reporting objects.
+- Purpose: The main entry point of the application.
+- Responsibilities:
+- Handles all user interaction (gathering input for name, income, expenses, and savings goals).
+- Instantiates objects from the other modules.
+- Orchestrates the flow of data between the calculation and reporting objects.
 
 2. financeCalculations.py
 Purpose: A parent class that holds core financial attributes and prediction logic.
